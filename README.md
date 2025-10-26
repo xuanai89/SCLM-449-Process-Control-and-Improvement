@@ -62,14 +62,14 @@ The project employs a multi-faceted approach combining SPC and machine learning:
 
 **Strategic Recommendations:**
     
-    1.  Implement an **automatic classification system** based on key thresholds (Fat, Turbidity, Taste, Odor).
+1.  Implement an **automatic classification system** based on key thresholds (Fat, Turbidity, Taste, Odor).
     
-    2.  Strictly **control Temperature** around an optimal target (approx. 45°C suggested by boxplots, but needs verification) to reduce variation and improve stability.
+2.  Strictly **control Temperature** around an optimal target (approx. 45°C suggested by boxplots, but needs verification) to reduce variation and improve stability.
 
-    3.  **Standardize sensory evaluation** (Taste, Odor) through training.
+3.  **Standardize sensory evaluation** (Taste, Odor) through training.
     
-    4.  Integrate **real-time sensors** for Turbidity, Colour, and Temperature.
+4.  Integrate **real-time sensors** for Turbidity, Colour, and Temperature.
     
-    5.  Use **pH monitoring** as an early warning for potential low-quality batches.
+5.  Use **pH monitoring** as an early warning for potential low-quality batches.
     
-    6.  Optimize production towards **Medium/Low grades** based on market positioning, avoiding costly overproduction of High grade.
+6.  Optimize production towards **Medium/Low grades** based on market positioning, avoiding costly overproduction of High grade.
